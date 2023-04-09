@@ -1,10 +1,18 @@
 # Reddit Sentiment Analysis
 ## Project Purpose:question:
-To create an interactive dashboard that presents sentiment analysis of a subreddit feed. 
+To create an interactive dashboard that presents real-time sentiment analysis of a subreddit feed. 
 <br><br>
 
 ## Project Overview :mag:
-This project is intended to dive into the Futurology subreddit to identify sentiment in the top "hot" posts. A live instance of the web app is hosted on PythonAnywhere <a href="http://roguelash.pythonanywhere.com" title="here">here</a>. 
+This project is intended to dive into the Futurology subreddit to identify sentiment in the top "hot" posts. The web app is deployed on PythonAnywhere <a href="http://roguelash.pythonanywhere.com" title="here">here</a>. 
+
+There are six elements of the visualization component:
+1. Word cloud
+2. Overall sentiment 
+3. Frequency table
+4. Frequency chart
+5. Polarity and Subjectivity
+6. Posts by Sentiment
 <br><br>
 
 ## Technology :computer:
