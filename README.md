@@ -9,7 +9,7 @@ This project intends to delve into the Futurology subreddit and identify the pre
 The visualization component of this project comprises six key elements, which are::
 1. Word Cloud
 2. Overall Sentiment 
-3. Frequency table
+3. Frequency Table
 4. Frequency Chart
 5. Polarity and Subjectivity
 6. Posts by Sentiment
