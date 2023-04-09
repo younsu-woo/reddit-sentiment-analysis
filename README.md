@@ -4,7 +4,7 @@ To create an interactive dashboard that presents real-time sentiment analysis of
 <br><br>
 
 ## Project Overview :mag:
-This project is intended to dive into the Futurology subreddit to identify sentiment in the top "hot" posts. The web app is deployed on PythonAnywhere <a href="http://roguelash.pythonanywhere.com" title="here">here</a>. 
+This project is intended to dive into the Futurology subreddit to identify sentiment in the top "hot" posts. The web app is deployed on PythonAnywhere <a href="http://roguelash.pythonanywhere.com" title="here">here</a>. It will take some time to load since the process of pulling data via the Reddit API is somewhat time-consuming.
 
 There are six elements of the visualization component:
 1. Word Cloud
