@@ -7,10 +7,10 @@ To create an interactive dashboard that presents real-time sentiment analysis of
 This project is intended to dive into the Futurology subreddit to identify sentiment in the top "hot" posts. The web app is deployed on PythonAnywhere <a href="http://roguelash.pythonanywhere.com" title="here">here</a>. 
 
 There are six elements of the visualization component:
-1. Word cloud
-2. Overall sentiment 
+1. Word Cloud
+2. Overall Sentiment 
 3. Frequency table
-4. Frequency chart
+4. Frequency Chart
 5. Polarity and Subjectivity
 6. Posts by Sentiment
 <br><br>
@@ -30,3 +30,11 @@ This data then feeds in the Dash Plotly dashboard, allowing the end user to choo
 
 ## Visualization :bar_chart:
 ![Dashboard_Sentiment_Analysis](https://user-images.githubusercontent.com/10111217/230750792-8132cbe2-8557-4507-b7b8-c38af880b1e7.png)
+
+## Future Analysis
+1. Add a dropdown or input box where end user can input which subreddit to analyze sentiment analysis. Allows for more of a versatile and user-friendly dashboard. 
+
+2. Implement a date range fuctionality that allows for end user to select a date range for which they want to see the analysis. Having a more customizable dashboard allows for a better experience as the user. Maintainig scalability will be key when it comes to embedding additional tools in the dashboard.
+
+
+
