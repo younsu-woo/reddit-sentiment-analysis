@@ -34,7 +34,7 @@ This data then feeds in the Dash Plotly dashboard, allowing the end user to choo
 ## Future Analysis :high_brightness:
 1. Add a dropdown or input box where end user can input which subreddit to analyze sentiment analysis. This allows for more of a versatile and user-friendly dashboard. 
 
-2. Incorporate a date range feature to the analysis tool, which allows users to choose the desired date range. Having a more customizable dashboard allows for a better experience as the user. Maintainig scalability will be key when it comes to embedding additional tools in the dashboard.
+2. Incorporate a date range feature to the analysis tool, which allows users to choose the desired date range. Having a more customizable dashboard allows for a better user experience. Maintaining scalability will be key when it comes to embedding additional tools in the dashboard.
 
 
 
