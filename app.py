@@ -107,7 +107,7 @@ maindiv = html.Div(
 )
 
 def serve_layout():
-    print('Getting data...')
+    print('Getting data again...')
     data = reddit_etl.grab_subreddit_sentiment()
     print('Done grabbing and transforming reddit df')
 
