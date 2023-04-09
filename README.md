@@ -1,10 +1,10 @@
 # Reddit Sentiment Analysis
 ## Project Purpose:question:
-To create an interactive dashboard that presents sentiment analysis of a subreddit.
+To create an interactive dashboard that presents sentiment analysis of a subreddit feed. 
 <br><br>
 
 ## Project Overview :mag:
-This project is intended to dive into the Futurology subreddit to identify sentiment in the top "hot" posts.
+This project is intended to dive into the Futurology subreddit to identify sentiment in the top "hot" posts. A live instance of the web app is hosted on PythonAnywhere <a href="http://roguelash.pythonanywhere.com" title="here">here</a>. 
 <br><br>
 
 ## Technology :computer:
@@ -17,7 +17,7 @@ This project is intended to dive into the Futurology subreddit to identify senti
 ## Methodology :memo:
 Using the Reddit API, PRAW, we grab the top "hot" subreddit posts' titles, number of comments, and other metrics and store it as a pandas dataframe that will be used in the data pre-processing stage and in future analysis. The dataframe is cleaned prior to categorizing the sentiment. We grab the polarity and subjectivity, and classify the sentiment of each post based on polarity.
 
-This data then feeds in the Dash Plotly dashboard, allowing the end user to choose using the dropdown the visualization they would like to see. The data is updated whenever the Dash app is run for that day and time.
+This data then feeds in the Dash Plotly dashboard, allowing the end user to choose using the dropdown the visualization they would like to see. The data is updated whenever the app is run as of that date and time.
 <br><br>
 
 ## Visualization :bar_chart:
