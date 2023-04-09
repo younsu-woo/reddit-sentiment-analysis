@@ -146,7 +146,6 @@ def serve_layout():
                 ),
                 className='header-description-date',
             ),
-            html.Button('Update', id='update-button', n_clicks=0)
         ],
         style={
             'position': 'fixed',
