@@ -213,16 +213,6 @@ def serve_layout():
     )
 ])
 
-# Create the Dash app layout
-# app.layout = html.Div([
-#     dbc.Row(
-#         [
-#             dbc.Col(sidebar, width=2),
-#             dbc.Col(maindiv, width=6)
-#         ]
-#     )
-# ])
-
 app.layout = serve_layout
 
 @app.callback(
