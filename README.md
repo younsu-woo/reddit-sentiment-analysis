@@ -4,9 +4,9 @@ To create an interactive dashboard that presents real-time sentiment analysis of
 <br><br>
 
 ## Project Overview :mag:
-This project is intended to dive into the Futurology subreddit to identify sentiment in the top "hot" posts. The web app is deployed on PythonAnywhere <a href="http://roguelash.pythonanywhere.com" title="here">here</a>. It will take some time to load since the process of pulling data via the Reddit API is somewhat time-consuming.
+This project intends to delve into the Futurology subreddit and identify the prevailing sentiment in its top "hot" posts. The corresponding web-based application is presently hosted on PythonAnywhere and can be accessed via the following <a href="http://roguelash.pythonanywhere.com" title="here">link</a>. Note that the data retrieval process from the Reddit API is somewhat time-intensive, and as such, the loading time for the application may be prolonged.
 
-There are six elements of the visualization component:
+The visualization component of this project comprises six key elements, which are::
 1. Word Cloud
 2. Overall Sentiment 
 3. Frequency table
@@ -32,7 +32,7 @@ This data then feeds in the Dash Plotly dashboard, allowing the end user to choo
 ![Dashboard_Sentiment_Analysis](https://user-images.githubusercontent.com/10111217/230750792-8132cbe2-8557-4507-b7b8-c38af880b1e7.png)
 
 ## Future Analysis :high_brightness:
-1. Add a dropdown or input box where end user can input which subreddit to analyze sentiment analysis. This allows for more of a versatile and user-friendly dashboard. 
+1. Add a dropdown or input box where end user can specify which subreddit to analyze sentiment analysis. This allows for more of a versatile and user-friendly dashboard. 
 
 2. Incorporate a date range feature to the analysis tool, which allows users to choose the desired date range. Having a more customizable dashboard allows for a better user experience. Maintaining scalability will be key when it comes to embedding additional tools in the dashboard.
 
